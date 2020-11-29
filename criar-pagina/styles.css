@@ -7,3 +7,18 @@
     border-width: 5px;
     
 }
+
+.info h4 {
+    font-family: "OpenSans-Bold", Helvetica, Arial, sans-serif;
+    color: #fc6836;
+    letter-spacing: -.2px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+img .profile-img{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
