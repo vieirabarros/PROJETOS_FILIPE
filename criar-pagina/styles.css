@@ -17,8 +17,10 @@
     font-size: 18px;
 }
 
-img .profile-img{
+.profile-img{
     max-width: 100%;
     height: auto;
-    position: relative;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #fc6836;
 }

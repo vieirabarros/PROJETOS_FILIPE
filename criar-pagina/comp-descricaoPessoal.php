@@ -1,12 +1,12 @@
-<div class="container">
+<div class="container cc-descricaoPessoal">
 
     <h2 class="titulo">Quem é quem</h2>
-    
-    <div class="row d-flex flex-row">
-        <div class="col-sm col-md col-lg d-flex flex-column flex-wrap">
+
+    <div class="row">
+        <div class="col-sm col-md col-lg">
             <div id="destaque1" class="descricaoPessoal">
                 <figure>
-                    <img src="http://via.placeholder.com/368x400" class="attachment-large size-large" alt="" loading="lazy">
+                    <img src="http://via.placeholder.com/368x400" class="attachment-large size-large profile-img" alt="" loading="lazy">
                     <figcaption>
                         <ul>
                             <li>
@@ -19,7 +19,7 @@
                 </figure>
             </div>
         </div>
-        <div class="col-sm col-md col-lg d-flex flex-column flex-wrap">
+        <div class="col-sm col-md col-lg">
             <div class="info">
                 <h4>Secretário-Chefe da Casa Civil</h4>
                 <h2>Flávio Jucá</h2>
