@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-sm col-md col-lg">
-            <div id="destaque1" class="descricaoPessoal">
+            <div id="destaque1" class="descricaoPessoal d-flex">
                 <figure>
                     <img src="http://via.placeholder.com/368x400" class="attachment-large size-large profile-img" alt="" loading="lazy">
                     <figcaption>

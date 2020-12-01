@@ -5,7 +5,8 @@
 .card{
     background-color: gray;
     border-width: 5px;
-    
+    margin-bottom: 15px;
+    margin-top: 5px;
 }
 
 .info h4 {
