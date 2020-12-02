@@ -1,6 +1,10 @@
 <style>
-body{
+    
+body *{
     max-width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align:justify;
 }
 
 label{
@@ -25,13 +29,13 @@ label{
 
     <form action="" id="survey-form">
         <label for="name" id="name-label">Name</label>
-        <input type="text" id="name" placeholder="Insert your Name">
+        <input type="name" id="name" placeholder="Insert your Name" required>
     
         <label for="email" id="email-label">Email</label>
-        <input type="email" id="email" placeholder="Insert your Email">
+        <input type="email" id="email" placeholder="Insert your Email" required>
     
         <label for="number" id="number-label">Number</label>
-        <input type="number" id="number" min="1" max="10" placeholder="1 to 10">
+        <input type="number" id="number" min="1" max="10" placeholder="1 to 10" required>
     
 
         <p>Select your current role</p>
