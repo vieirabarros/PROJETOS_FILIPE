@@ -160,7 +160,9 @@ $("element").animate({property:"value"}, time);
 
 Properties uses JSON camelCase format
 
+$("element") on("event", function(){
+    do-something;}
+    );
 
 
-
-MODULAR DESIGN/ATOMIC
+MODULAR DESIGN/ATOMIC (Header, Footer, e quase tudo modular)
