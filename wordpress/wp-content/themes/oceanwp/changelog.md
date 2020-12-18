@@ -1,5 +1,16 @@
 # OceanWP Changelog
 
+### *2020.12.17.* - 2.0.2
+* **Added** - Link underlined style removed from the elementor and woocommerce pages.
+
+### *2020.12.16.* - 2.0.1
+* **Added** - Heading tag option in the Customizer: Sidebar and Footer widget title.
+* **Added** - Content links underlined per WordPress accessibility requirements.
+* **Tweak** - Default Body text color altered for increased contrast & accessibility requirements.
+* **Fixed** - WooCommerce: Menu Icon Cart Count style missing.
+* **Fixed** - WooCommerce: Multistep-checkout form submission error.
+* **Added** - WooCommerce: Filter 'ocean_product_archive_title_tag' to alter the title tag in shop loop.
+
 ### *2020.11.17* - 2.0.0
 * **Added** - Hook: ocean_after_archive_product_price;
 * **Added** - Option to choose default theme icons: General Options > Theme Icons.
